@@ -1,0 +1,19 @@
+baseURL = 'https://gitee.com/xinghuipeng/xsdb/'
+languageCode = 'zh-cn'
+title = '个人资料库'
+theme = 'mini'
+defaultContentLanguage = 'zh'
+paginate = 15
+
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+  
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  author = '邢慧鹏'
+  description = '我的个人资料库'
+  hiddenPostSummaryInHomePage = true
+  showToc = true
