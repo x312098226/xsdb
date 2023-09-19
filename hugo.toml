@@ -7,7 +7,7 @@ paginate = 15
 
 
 [permalinks]
-  posts = "/:year/:month/:slug/"
+  posts = "/:slug/"
   
 [markup.goldmark.renderer]
   unsafe = true
