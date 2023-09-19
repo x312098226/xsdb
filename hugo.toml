@@ -4,6 +4,7 @@ title = '个人资料库'
 theme = 'mini'
 defaultContentLanguage = 'zh'
 paginate = 15
+relativeurls = true
 
 
 [permalinks]
