@@ -4,6 +4,11 @@ date = 2023-09-19T17:44:16+08:00
 draft = true
 +++
 
+1. hugo 版本
+```shell
+hugo version
+hugo v0.118
+```
 1. 生成网站
 ```shell
 hugo new site [path] [name]
